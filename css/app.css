@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+
+.board-container {
+  margin: auto;
+}
+
+.cell {
+  font-size: 1.5em;
+  width: 2em;
+  height: 2em;
+}
+
+.modal{
+  display: none;
+  height: 100px;
+  width: 200px;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+}
+
